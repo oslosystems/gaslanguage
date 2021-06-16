@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gas Lang/1.0.0": {
+        "runtime": {
+          "Gas Lang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gas Lang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

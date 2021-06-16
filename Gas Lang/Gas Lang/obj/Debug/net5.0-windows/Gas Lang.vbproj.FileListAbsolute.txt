@@ -1,0 +1,20 @@
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\Gas Lang.exe
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\Gas Lang.deps.json
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\Gas Lang.runtimeconfig.json
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\Gas Lang.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\Gas Lang.dll
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\ref\Gas Lang.dll
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\bin\Debug\net5.0-windows\Gas Lang.pdb
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.vbproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas_Lang.Form1.resources
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.vbproj.GenerateResource.cache
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.AssemblyInfo.vb
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.vbproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.dll
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\ref\Gas Lang.dll
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.pdb
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas Lang.genruntimeconfig.cache
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas_Lang.Resources.resources
+C:\Users\pc\source\repos\Gas Lang\Gas Lang\obj\Debug\net5.0-windows\Gas_Lang.log.resources
